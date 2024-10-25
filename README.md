@@ -1,7 +1,9 @@
 # iCLOTHING
 
 Developed by Joseph Hargus, Matthew Shroud, Ty Hastings
+
 For Mizzou's CS4320
+
 05/01/2024
 
 ## Project Description
